@@ -98,7 +98,7 @@ pyttsx3==2.88
 pytz==2020.1
 pywin32==228
 pywinpty==0.5.7
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.1
 Quandl==3.5.0
 regex==2020.6.8
