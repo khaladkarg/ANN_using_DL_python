@@ -84,7 +84,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyAudio @ file:///C:/Users/Gaurav/pipwin/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 pyfpgrowth==1.0
-Pygments==2.6.1
+Pygments==2.7.4
 pyjsparser==2.7.1
 pyparsing==2.4.7
 pypi==2.1
